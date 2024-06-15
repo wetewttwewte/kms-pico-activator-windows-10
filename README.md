@@ -28,7 +28,7 @@
   [🔗 Virus Total - Official website](https://www.virustotal.com/)
 
 </p>
-  <h2 align="left">🖥 System Requirement:</h2><p align="left">Windows 10 operating system x32 x64 ( Home, Pro )<br>Hard drive space - at least 200 MB<br>RAM - 1GB<br>Microsoft Visual C++ ( recommended latest version )<br>Any Video Card<br>Audo card is not required</p>
+  <h3 align="left">🖥 System Requirement:</h3><p align="left">Windows 10 operating system x32 x64 ( Home, Pro )<br>Hard drive space - at least 200 MB<br>RAM - 1GB<br>Microsoft Visual C++ ( recommended latest version )<br>Any Video Card<br>Audo card is not required</p>
 
 ###
 
