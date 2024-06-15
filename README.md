@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://kms-activator.io/assets/img/integations/kmspico.webp"  />
+  <img height="150" src="https://img001.prntscr.com/file/img001/K9hc47tPSv6T-dP2Tam0TA.png"  />
 </div>
 
 ###
@@ -17,6 +17,10 @@
 
 <p align="left">Welcome to my Github Rep.<br>Today i am going to present you probably the most advanced tool - kms pico activator.<br>Here you are going to learn how to use it for Windows 10 operating system.<br>My guide will take only 2 minutes to read and you'll get all required knowledge about this software.<br>So let's start with it right away !</p>
 
+<div align="center">
+  <img height="250" src="https://img001.prntscr.com/file/img001/jwNU0qpASJmpg6rMDHrkdA.png"  />
+</div>
+
 ###
 
 <h2 align="left">2️⃣ Where to download official software ?</h2>
@@ -28,7 +32,7 @@
   [🔗 Virus Total - Official website](https://www.virustotal.com/)
 
 </p>
-  <h3 align="left">🖥 System Requirement:</h3><p align="left">Windows 10 operating system x32 x64 ( Home, Pro )<br>Hard drive space - at least 200 MB<br>RAM - 1GB<br>Microsoft Visual C++ ( recommended latest version )<br>Any Video Card<br>Audo card is not required</p>
+  <h3 align="left">🖥 System Requirement:</h3><p align="left">Windows 10 operating system x32 x64 ( Home, Pro )<br>Hard drive space - at least 200 MB<br>RAM - 1GB<br>Microsoft Visual C++ ( recommended latest version )<br>Any Video Card<br>Audio card is not required</p>
 
 ###
 
@@ -41,7 +45,7 @@
 ###
 
 
-<p align="left">A) Unpack archive ( most of them comes with password protection and from what i learn, that's because developers wants to protect their software from unwanted visitors )<br>B) Find the .exe file, which is most common to be named with the brand of creator<br>C) Turn off Windows defender or AV on your machine<br>D) Run software with administrator rights <br>E) Selected Windows or Office version which you want to activate<br>F) Enjoy your digital license for free ( most of the times activation process is valid for 180 days )</p>
+<p align="left">A) Unpack archive ( most of them comes with password protection and from what i learn, that's because developers wants to protect their software from unwanted visitors )<br>B) Find the .exe file, which is most common to be named with the brand of creator<br>C) Turn off Windows defender or AV on your machine<br>D) Run software with administrator rights <br>E) Select Windows or Office version which you want to activate<br>F) Enjoy your digital license for free ( most of the times activation process is valid for 180 days )</p>
 
 ###
 
@@ -53,11 +57,15 @@
 
 ###
 
+<div align="center">
+  <img height="250" src="https://img001.prntscr.com/file/img001/3o4-AT3sTYi4b1NOXF8roA.png"  />
+</div>
+
 <h2 align="left">❗️ Disclaimer ❗️</h2>
 
 ###
 
-<p align="left">Please  note, my blog is educational purpose only  !<br>Make sure you allways protect your data and your rights.<br>Never download any software from untrusted sources & websites.<br>Beware of false or phising websites.</p>
+<p align="left">Please  note, my blog is educational purpose only  !<br>Make sure you allways protect your data and your rights.<br>Never download any software from untrusted sources & websites.<br>Beware of false or phishing websites.</p>
 
 ###
 
